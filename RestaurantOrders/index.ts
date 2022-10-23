@@ -11,8 +11,6 @@ function getMaxPrice(price: PriceBracket) : number {
     case PriceBracket.High:
       return 30.0;
   }
-
-  return 0
 }
 
 /// Add your getOrders() function below:
