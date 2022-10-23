@@ -42,7 +42,7 @@ export const restaurants = [
    distance: "12",
  },
 ];
-​
+
 export type Restaurant =  {
    name: string,
    priceBracket: PriceBracket,
