@@ -1,0 +1,8 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "commonjs"
+    },
+    "files": ["index.ts", "raccoon-meadows-log.ts", "wolf-point-log.ts"]
+  }
+  
