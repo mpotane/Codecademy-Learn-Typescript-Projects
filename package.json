@@ -2,6 +2,6 @@
   "name": "Codecademy-Learn-Typescript-Projects",
   "packageManager": "yarn@3.2.4",
   "devDependencies": {
-    "typescript": "^4.8.4"
+    "typescript": "^4.9.3"
   }
 }
